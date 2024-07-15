@@ -20,10 +20,10 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Cloudlyjay",
-  title: "Hi all, I'm Jay",
+  username: "Jayakumar",
+  title: "Hi all, I'm Jayakumar",
   subTitle: emoji(
-    "A your not-so-average Cloud and DevOps wizard. When I'm not busy moving mountains (or at least, data) to the cloud, I'm tinkering away with on-premise setups because someone has to keep those ancient relics running, right?."
+    "Your not-so-average Cloud and DevOps wizard. When I'm not busy moving mountains (or at least, data) to the cloud, I'm tinkering away with on-premise setups because someone has to keep those ancient relics running, right?."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1N5MrSDHb3Yc9mYEJjpycduhVh7jfzMAC/view?usp=sharing", // Set to empty to hide the button
