@@ -163,7 +163,7 @@ const workExperiences = {
       role: "Technical Support Engineer",
       company: "Zoho Corporation",
       companylogo: require("./assets/images/zoho (3).png"),
-      date: "May 2024 – Present",
+      date: "May 2024 – July 2024",
       desc: "Provide expert-level support for Active Directory, including user management, group policies, and authentication issues.",
       descBullets: [
         "Offer specialized support for Azure Cloud services, including VM deployment, resource management, and connectivity issues.",
