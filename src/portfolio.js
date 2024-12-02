@@ -85,7 +85,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-microsoft"
     },
     {
-      skillName: "sql-database",
+      skillName: "Sql-Database",
       fontAwesomeClassname: "fas fa-database"
     },
     {
@@ -94,11 +94,11 @@ https://fontawesome.com/icons?d=gallery */
     },
 
     {
-      skillName: "python",
+      skillName: "Python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "docker",
+      skillName: "Docker",
       fontAwesomeClassname: "fab fa-docker"
     }
   ],
@@ -121,14 +121,17 @@ const educationInfo = {
         "Furthermore, I took the initiative to conduct and lead various sessions related to Cloud and DevOps, contributing to the knowledge-sharing culture within the academic community. And also developed an web application for the admission related queries using Alan Ai."
       ]
     },
-   /*{
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
-    }*/
+   {
+      schoolName: "Atlantic Technological University",
+      logo: require("./assets/images/atu.webp"),
+      subHeader: "Masters of Science in Computing DevOps",
+      duration: "September 2024 - September 2025",
+      desc: "Currently pursuing a Master’s in DevOps, focusing on advanced methodologies for continuous integration and delivery (CI/CD), cloud infrastructure management, automation, and agile practices.",
+      descBullets: [
+        "My coursework includes exploring tools like Jenkins, Docker, Kubernetes, and cloud platforms such as AWS and Azure to drive operational efficiency and streamline deployment workflows.",
+        "Through hands-on projects, I am gaining expertise in managing DevOps pipelines, automating infrastructure provisioning, and ensuring scalability and security in application delivery. This program is equipping me with the skills to bridge the gap between development and operations, fostering seamless collaboration and driving innovation in enterprise environments."
+      ]
+    }
     
   ]
 };
@@ -139,7 +142,7 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Cloud", //Insert stack or technology you have experience in
+      Stack: "Cloud Architecture", //Insert stack or technology you have experience in
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
@@ -149,6 +152,14 @@ const techStack = {
     {
       Stack: "Cloud-Native",
       progressPercentage: "60%"
+    },
+    {
+      Stack: "Containerization",
+      progressPercentage: "70%"
+    }
+    {
+      Stack: "Infrastructure as Code",
+      progressPercentage: "70%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -241,6 +252,19 @@ const achievementSection = {
     "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
 
   achievementsCards: [
+    {
+      title: "AWS - Solutions Architect Associate",
+      subtitle:
+        "The AWS Certified Solutions Architect – Associate certification validates the ability to design and deploy well-architected solutions on the AWS platform that are scalable, secure, and cost-effective..",
+      image: require("./assets/images/Amazon_Web_Services-Logo.wine.png"),
+      imageAlt: "Google Code-In Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://www.credly.com/badges/3b62908a-85e7-45d4-80c6-d8b4a9dd369a/linked_in_profile"
+        },
+      ]
+    },
     {
       title: "Azure Fundamentals - AZ900",
       subtitle:
@@ -350,7 +374,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Just want to say hi? My Inbox is open for all.",
-  number: "+91 7305303508",
+  number: "+351 899453792",
   email_address: "jai9176288@gmail.com"
 };
 
