@@ -156,7 +156,7 @@ const techStack = {
     {
       Stack: "Containerization",
       progressPercentage: "70%"
-    }
+    },
     {
       Stack: "Infrastructure as Code",
       progressPercentage: "70%"
