@@ -177,11 +177,14 @@ const workExperiences = {
       date: "May 2024 – July 2024",
       desc: "Provide expert-level support for Active Directory, including user management, group policies, and authentication issues.",
       descBullets: [
-        "Provide expert-level support for Active Directory, including user management, group policies, and authentication issues.",
         "Manage and troubleshoot Exchange Server environments, addressing mail flow problems, mailbox issues, and server performance.",
+
         "Offer specialized support for Azure Cloud services, including VM deployment, resource management, and connectivity issues.",
+
         "Diagnose and resolve hardware, software, and network issues across various platforms and devices.",
+
         "Maintain and administer Windows Server environments, ensuring optimal performance and security.",
+        
         "Assist end-users with technical issues, providing clear and effective solutions and guidance.",
       ]
     },
@@ -193,7 +196,9 @@ const workExperiences = {
       desc: "Worked as part of the Output Validation Team, performing various validations using Python scripts and finalizing end deliverables for clients.",
       descBullets: [
       "As a Data Analyst at NielsenIQ, I played a pivotal role in ensuring the accuracy and integrity of market research data used by global clients. I worked with millions of records sourced from major retail giants like Walmart, Costco, Lidl, and Aldi, validating data for accuracy and ensuring it met stringent quality standards. Utilizing Python and SQL in Jupyter Notebooks, I executed complex data transformations and queries, contributing to a 99% data accuracy rate in all reports.",
+
       "In addition to my daily data validation tasks, I led a team of 6 members in managing Omni Sales reports, integrating offline and online data. I was responsible for migrating 1TB+ of data from Presto on-premises servers to Azure Cloud, improving data processing speeds and scalability. This migration was completed within a 3-months period and involved rigorous performance testing and load balancing to ensure 99.9% uptime and optimal performance.",
+
       "I collaborated closely with stakeholders across multiple departments, providing updates on data progress, resolving issues, and ensuring SLA compliance for data delivery and report accuracy. My efforts in automating data validation workflows using Python and SQL resulted in a 30% reduction in manual effort and a 20% faster report delivery time. These improvements led to enhanced decision-making for clients and more efficient resource utilization across the team.",
       ]
     },
