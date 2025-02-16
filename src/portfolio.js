@@ -271,6 +271,32 @@ const achievementSection = {
       ]
     },
     {
+      title: "CKA:Certified Kubernetes Administrator",
+      subtitle:
+        "The Certified Kubernetes Administrator (CKA) certification validates the ability to design, deploy, manage, and troubleshoot Kubernetes clusters. It ensures proficiency in core Kubernetes concepts, including cluster architecture, networking, security, scheduling, and storage, making candidates well-equipped to manage production environments efficiently.",
+      image: require("./assets/images/kubernetes.512x499.png"),
+      imageAlt: "Google Code-In Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://www.credly.com/badges/cdfc0d69-ed63-4a92-908b-ad821823e705/linked_in_profile"
+        },
+      ]
+    },
+    {
+      title: "HashiCorp Certified : Terraform Associate",
+      subtitle:
+        "The HashiCorp Certified: Terraform Associate certification validates the ability to use Terraform for infrastructure as code (IaC), covering fundamental concepts such as writing and managing Terraform configurations, understanding state management, working with modules, and implementing best practices for deploying scalable, secure, and efficient cloud infrastructure.",
+      image: require("./assets/images/HashiCorp Terraform.png"),
+      imageAlt: "Google Code-In Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://www.credly.com/badges/4daf326a-5f80-4652-9aaf-42f52db8ec11/linked_in_profile"
+        },
+      ]
+    },
+    {
       title: "Azure Fundamentals - AZ900",
       subtitle:
         "Started my first certification in Microsoft Azure.",
