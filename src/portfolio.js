@@ -177,15 +177,16 @@ const workExperiences = {
       date: "May 2024 – July 2024",
       desc: "Provide expert-level support for Active Directory, including user management, group policies, and authentication issues.",
       descBullets: [
-        "Manage and troubleshoot Exchange Server environments, addressing mail flow problems, mailbox issues, and server performance.",
+        "Managed Azure Cloud production environments ensuring 99.9% uptime implementing proactive monitoring with SLOs and automated health checks that reduced mean time to detect by 35% .",
 
-        "Offer specialized support for Azure Cloud services, including VM deployment, resource management, and connectivity issues.",
+        "Implemented proactive monitoring using Site24x7 establishing SLOs and automated health checks to detect service degradation before customer impact reducing mean time to detect by 35% .",
 
-        "Diagnose and resolve hardware, software, and network issues across various platforms and devices.",
+        "Automated infrastructure management using PowerShell and Python scripts improving operational efficiency by 30% and reducing manual toil.",
 
-        "Maintain and administer Windows Server environments, ensuring optimal performance and security.",
+        "Participated in on-call rotation for production systems, performing incident triage, root cause analysis, and post-incident reviews to implement preventive measures .",
         
-        "Assist end-users with technical issues, providing clear and effective solutions and guidance.",
+        "Managed containerized applications on Azure Kubernetes Service, troubleshooting pod failures, network policies, and ensuring resource optimization for production workloads.",
+        "Configured and troubleshot networking components including DNS, load balancers, and network security groups, ensuring secure and reliable connectivity for cloud services.",
       ]
     },
     {
@@ -195,11 +196,14 @@ const workExperiences = {
       date: "October 2022 – April 2024",
       desc: "Worked as part of the Output Validation Team, performing various validations using Python scripts and finalizing end deliverables for clients.",
       descBullets: [
-      "As a Data Analyst at NielsenIQ, I played a pivotal role in ensuring the accuracy and integrity of market research data used by global clients. I worked with millions of records sourced from major retail giants like Walmart, Costco, Lidl, and Aldi, validating data for accuracy and ensuring it met stringent quality standards. Utilizing Python and SQL in Jupyter Notebooks, I executed complex data transformations and queries, contributing to a 99% data accuracy rate in all reports.",
+      "Led cloud infrastructure migration using Terraform and Ansible (IaC), reducing deployment time by 40% through automation and Infrastructure as Code best practices",
 
-      "In addition to my daily data validation tasks, I led a team of 6 members in managing Omni Sales reports, integrating offline and online data. I was responsible for migrating 1TB+ of data from Presto on-premises servers to Azure Cloud, improving data processing speeds and scalability. This migration was completed within a 3-months period and involved rigorous performance testing and load balancing to ensure 99.9% uptime and optimal performance.",
+      "Managed production Kubernetes infrastructure with 99.9% uptime, implementing container security, pod security policies, and resource optimization",
 
-      "I collaborated closely with stakeholders across multiple departments, providing updates on data progress, resolving issues, and ensuring SLA compliance for data delivery and report accuracy. My efforts in automating data validation workflows using Python and SQL resulted in a 30% reduction in manual effort and a 20% faster report delivery time. These improvements led to enhanced decision-making for clients and more efficient resource utilization across the team.",
+      "Built and maintained CI/CD pipelines using GitLab and Jenkins for automated testing and deployment, improving deployment reliability by 35%",
+      "Implemented monitoring and alerting with Datadog to track system performance and proactively identify anomalies, reducing incident volume by 25% ",
+      " Developed Python and Bash automation scripts for infrastructure management and data validation, reducing manual operational tasks by 45%",
+      "Owned Problem Management process, conducting post-incident root cause analyses and implementing preventive measures following ITIL best practices",
       ]
     },
     /*{
