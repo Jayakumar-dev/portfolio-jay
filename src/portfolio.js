@@ -171,7 +171,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Technical Support Engineer",
+      role: "Technical Support Engineer - Azure Cloud",
       company: "Zoho Corporation",
       companylogo: require("./assets/images/zoho (3).png"),
       date: "May 2024 – July 2024",
@@ -190,7 +190,7 @@ const workExperiences = {
       ]
     },
     {
-      role: "Data Analyst",
+      role: "Data Processing Analyst - Data Infrastructure",
       company: "NielsenIQ",
       companylogo: require("./assets/images/Nielseniq-new-logo.png"),
       date: "October 2022 – April 2024",
