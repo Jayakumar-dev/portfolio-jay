@@ -26,7 +26,7 @@ const greeting = {
     "Your not-so-average Cloud and DevOps wizard. When I'm not busy moving mountains (or at least, data) to the cloud, I'm tinkering away with on-premise setups because someone has to keep those ancient relics running, right?."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1k6Ism2Z9vE8LNYOJxH6Jybbwlhqx0aAe/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1ePdLqkHbqY8JetFsNL8UJC6SalfQXeXE/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
